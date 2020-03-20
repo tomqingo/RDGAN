@@ -24,7 +24,12 @@ Dataset | PSNR(dB) | SSIM | BRISQUE
 Set5 | 29.3432 | 0.8392 | 47.4282
 Set14 | 27.3637 | 0.7534 | 44.2279  
 
-PSNR and SSIM are calculated by the Y channel of YCrCb image converted from RGB image.
+PSNR and SSIM are calculated by the Y channel of YCrCb image converted from RGB image.  
 
+Image Result
+![HR image](images/HR iamge.png)  
+![LR+noise image](images/LR iamge.png)
+![RDN output](images/RDN output.png)
+![RDGAN output](images/SRGAN+RDN output.png)
 
 
