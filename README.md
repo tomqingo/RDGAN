@@ -26,10 +26,10 @@ Set14 | 27.3637 | 0.7534 | 44.2279
 
 PSNR and SSIM are calculated by the Y channel of YCrCb image converted from RGB image.  
 
-Image Result
-![HR image](images/HR iamge.png)  
-![LR+noise image](images/LR iamge.png)
-![RDN output](images/RDN output.png)
-![RDGAN output](images/SRGAN+RDN output.png)
+Image Result  
+![](https://github.com/tomqingo/RDGAN/blob/master/images/HR%20image.png)  
+![](https://github.com/tomqingo/RDGAN/blob/master/images/LR%20image.png)  
+![](https://github.com/tomqingo/RDGAN/blob/master/images/RDN output%20image.png)  
+![](https://github.com/tomqingo/RDGAN/blob/master/images/SRGAN+RDN output%20image.png)
 
 
